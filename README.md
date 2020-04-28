@@ -4,7 +4,7 @@
 # Dataset 
 https://drive.google.com/a/itu.edu.pk/uc?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK
 
-#Weights
+# Weights
 https://drive.google.com/open?id=1G-KV1m-Fat06-gps2vsq_t5pmu8pETTT
 
 # Accuracy 
